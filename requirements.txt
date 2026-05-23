@@ -1,0 +1,34 @@
+# API
+fastapi
+uvicorn
+
+# ML / NLP
+sentence-transformers
+torch
+scikit-learn
+
+# Cross encoder (comes via sentence-transformers but keep safe)
+transformers
+
+# Dataset
+datasets
+pandas
+numpy
+
+# Vector search
+faiss-cpu
+
+# Redis cache
+redis
+
+# HTTP requests (for evaluation script)
+requests
+
+# Utils
+python-dotenv
+tqdm
+
+# 🔥 AIE core
+setfit
+scikit-learn
+
